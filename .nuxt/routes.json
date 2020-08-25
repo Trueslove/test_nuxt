@@ -1,0 +1,37 @@
+[
+  {
+    "name": "fun",
+    "path": "/fun",
+    "component": "/Users/admin/Documents/project/test_nuxt/pages/fun.vue",
+    "chunkName": "pages/fun",
+    "_name": "_5fea8560"
+  },
+  {
+    "name": "more-fun",
+    "path": "/more-fun",
+    "component": "/Users/admin/Documents/project/test_nuxt/pages/more-fun/index.vue",
+    "chunkName": "pages/more-fun/index",
+    "_name": "_b6f05e0e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/admin/Documents/project/test_nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_41dc30f3"
+  },
+  {
+    "name": "test",
+    "path": "/:test",
+    "component": "/Users/admin/Documents/project/test_nuxt/pages/_test/index.vue",
+    "chunkName": "pages/_test/index",
+    "_name": "_9cd261d6"
+  },
+  {
+    "name": "test-slug",
+    "path": "/:test/:slug",
+    "component": "/Users/admin/Documents/project/test_nuxt/pages/_test/_slug.vue",
+    "chunkName": "pages/_test/_slug",
+    "_name": "_a03fa466"
+  }
+]
